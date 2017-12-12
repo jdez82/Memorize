@@ -43,10 +43,7 @@ Current
    * Decided to go with a Segmented Control to switch between the two
    * Embedded TextFields, Buttons, and Images on a ScrollView, and implemented an auto-scroll up ability for the Keyboard.  Somewhat cleaner than using a UITableView.
 * You can see here the desired Sign-In View
-![][logo]
-
-
-[logo]: https://github.com/djpkvf/Current/blob/features/images/iPhone%206-7-8%20%E2%80%93%201.png "Sign-In Screen"
+![Sign-In View](https://github.com/djpkvf/Current/blob/features/images/iPhone%206-7-8%20%E2%80%93%201.png "Sign-In Screen")
 * Murphy begins development on Ripple sequence
 * Will begins development on Firebase geolocation implementation using Geofire
 * Calvin created/found UI icons and graphics
