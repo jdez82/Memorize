@@ -21,7 +21,7 @@ Current
 * Prototype
    * Roughly sketched the Views for Current
    * Dominic began prototyping the app on Adobe XD
-   * [Adobe XD Prototype](
+   * [Adobe XD Prototype](https://github.com/djpkvf/Current/blob/features/Current-Prototype.xd)
 * Prototypes of Views we intend on creating:
 
 
