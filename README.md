@@ -7,7 +7,7 @@ Current
 
 
 ## Access
-* [Axosoft site](https://current.axosoft.com)
+* [Axosoft site](https://current.axosoft.com) (Not user friendly)
 * [GitHub URL](https://github.com/djpkvf/Current.git)
 
 
