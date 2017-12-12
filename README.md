@@ -32,10 +32,12 @@ Ripple Results
 
 [logo]: https://github.com/djpkvf/Current/blob/features/images/iPhone%206-7-8%20%E2%80%93%203.png "Ripple Results"
 Creating a Hook
+
 ![Creating Hook][logo]
 
 
 [logo]: https://github.com/djpkvf/Current/blob/features/images/iPhone%206-7-8%20%E2%80%93%208.png "Creating a Hook"
+
 * Learning/Brainstorming
    * Calvin brainstormed logos for the app
    * Josh looked up how to use Firebase within iOS
