@@ -34,6 +34,8 @@ Ripple Results
 
 
 Creating a Hook
+
+
 ![Creating Hook][logo]
 
 
@@ -68,6 +70,8 @@ Creating a Hook
 
 
 [logo]: https://github.com/djpkvf/Current/blob/features/images/iPhone%206-7-8%20%E2%80%93%201.png "Sign-In Screen"
+
+
 * Murphy begins development on Ripple sequence
 * Will begins development on Firebase geolocation implementation using Geofire
 * Calvin created/found UI icons and graphics
