@@ -21,25 +21,20 @@ Current
 * Prototype
    * Roughly sketched the Views for Current
    * Dominic began prototyping the app on Adobe XD
+   * [Adobe XD Prototype](
 * Prototypes of Views we intend on creating:
 
 
 Ripple Results
 
 
-![Ripple Results][logo]
-
-
-[logo]: https://github.com/djpkvf/Current/blob/features/images/iPhone%206-7-8%20%E2%80%93%203.png "Ripple Results"
+![Ripple Results](https://github.com/djpkvf/Current/blob/features/images/iPhone%206-7-8%20%E2%80%93%203.png "Ripple Results")
 
 
 Creating a Hook
 
 
-![Creating Hook][logo]
-
-
-[logo]: https://github.com/djpkvf/Current/blob/features/images/iPhone%206-7-8%20%E2%80%93%208.png "Creating a Hook"
+![Creating Hook](https://github.com/djpkvf/Current/blob/features/images/iPhone%206-7-8%20%E2%80%93%208.png "Creating a Hook")
 
 
 * Learning/Brainstorming
@@ -66,10 +61,7 @@ Creating a Hook
 * You can see here the desired Sign-In View
 
 
-![alt text][logo]
-
-
-[logo]: https://github.com/djpkvf/Current/blob/features/images/iPhone%206-7-8%20%E2%80%93%201.png "Sign-In Screen"
+![alt text](https://github.com/djpkvf/Current/blob/features/images/iPhone%206-7-8%20%E2%80%93%201.png "Sign-In Screen")
 
 
 * Murphy begins development on Ripple sequence
@@ -105,7 +97,4 @@ Creating a Hook
 
 
 
-![Current][logo]
-
-
-[logo]: https://github.com/djpkvf/Current/blob/features/images/cArrowsLight.png "Logo"
+![Current](https://github.com/djpkvf/Current/blob/features/images/cArrowsLight.png "Logo")
