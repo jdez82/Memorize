@@ -26,15 +26,19 @@ Current
 
 Ripple Results
 
+
 ![Ripple Results][logo]
 
 
 [logo]: https://github.com/djpkvf/Current/blob/features/images/iPhone%206-7-8%20%E2%80%93%203.png "Ripple Results"
-Creating a Hook
 
+
+Creating a Hook
 ![Creating Hook][logo]
 
+
 [logo]: https://github.com/djpkvf/Current/blob/features/images/iPhone%206-7-8%20%E2%80%93%208.png "Creating a Hook"
+
 
 * Learning/Brainstorming
    * Calvin brainstormed logos for the app
@@ -84,8 +88,8 @@ Creating a Hook
 * Implement further Geofire functionality
 * Add missing fields in the hook section
 * Minimize references by including some in App Delegate
-   *  let reference = Firebase.Database.database().reference(fromURL: "https://current-79dd0.firebaseio.com/")
-   *  let hookReference = reference.child("hooks").childByAutoId()
+   *  `let reference = Firebase.Database.database().reference(fromURL: "https://current-79dd0.firebaseio.com/")`
+   *  `let hookReference = reference.child("hooks").childByAutoId()`
    * etc.    
 * Finesse the hook interface and the ripple
 * Add rippling effect when you click the symbol
@@ -93,3 +97,11 @@ Creating a Hook
 * Add messaging inside of a hook
 * Delete Hooks
 * Remove yourself from hooks
+
+
+
+
+![Current][logo]
+
+
+[logo]: https://github.com/djpkvf/Current/blob/features/images/cArrowsLight.png "Logo"
