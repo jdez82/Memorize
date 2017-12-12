@@ -6,8 +6,12 @@ Current
 #### By: _Calvin Taylor, Dominic Pilla, Josh Ehrich, Murphy Ward, and Will Johnke_
 
 
+## Videos
+* [Presentation and Promo Video](https://youtu.be/pUEXCT5xaW0)
+
+
 ## Access
-* [Axosoft site](https://current.axosoft.com) (Not user friendly)
+* [Axosoft site](https://current.axosoft.com)
 * [GitHub URL](https://github.com/djpkvf/Current.git)
 
 
@@ -25,13 +29,13 @@ Current
 * Prototypes of Views we intend on creating:
 
 
-Ripple Results
+### Ripple Results
 
 
 ![Ripple Results](https://github.com/djpkvf/Current/blob/features/images/iPhone%206-7-8%20%E2%80%93%203.png "Ripple Results")
 
 
-Creating a Hook
+### Creating a Hook
 
 
 ![Creating Hook](https://github.com/djpkvf/Current/blob/features/images/iPhone%206-7-8%20%E2%80%93%208.png "Creating a Hook")
